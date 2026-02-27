@@ -8,7 +8,7 @@ Quando não estou programando, gosto de jogar e de aproveitar o tempo livre para
 ### <img src="https://private-user-images.githubusercontent.com/74038190/238201075-34376b0e-4ae2-4278-9d3d-82e8016a87d6.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTk1MzUzMTMsIm5iZiI6MTc1OTUzNTAxMywicGF0aCI6Ii83NDAzODE5MC8yMzgyMDEwNzUtMzQzNzZiMGUtNGFlMi00Mjc4LTlkM2QtODJlODAxNmE4N2Q2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDAzVDIzNDMzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYwNDE1ZDdjZTlkY2RmYmFjZTU4ZjMxNTkyMDcwZDg3ZDYwOWU0MDQ0YjdkMmFlMGM4NjJiNzJlZTMyNjRmMjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.dEgJGxoUFLNUWqZQWotmENgWWruTXMIwyT9tXBmtOZU" width= "50"> Linguagens e Tecnologias
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,ts,nodejs,vue,nuxtjs,react,nextjs,prisma,pinia,mongodb,docker,supabase,postman,git,github,gcp,npm,yarn&perline=11" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,ts,nodejs,vue,php,nuxtjs,react,nextjs,prisma,pinia,mongodb,docker,supabase,postman,git,github,gcp,npm,yarn&perline=11" />
   </a>
 </p>
 <!--
